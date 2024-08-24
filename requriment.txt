@@ -1,0 +1,6 @@
+flask
+requests
+flask_sqlalchemy  
+SQLAlchemy
+bs4 
+apscheduler
